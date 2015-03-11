@@ -3,6 +3,7 @@ LOFT-Q Android
 
 As for the big  base of Android source, Github can't provide enough space for it.
 
-Here is just the quick link. you could download Android tarball from link below:
+More info please refer to links as below:
 
 * Android source: http://www.mixtile.com/downloads/loft-q/loftq_android.tar.bz2
+* Android building: http://mixtile.github.io/zh/zh-quick-guide.html#android
